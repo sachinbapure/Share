@@ -1,0 +1,33 @@
+{
+  "name": "share",
+  "version": "1.0.0",
+  "description": "MY Web App for ShareWay",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachinbapure/Share.git"
+  },
+  "keywords": [
+    "DAily",
+    "Commute",
+    "Cheapest",
+    "transport"
+  ],
+  "author": "Sachin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachinbapure/Share/issues"
+  },
+  "homepage": "https://github.com/sachinbapure/Share#readme",
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-useref": "^3.1.2"
+  }
+}
