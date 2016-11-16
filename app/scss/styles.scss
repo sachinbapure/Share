@@ -1,7 +1,30 @@
-.testing {
-  width: percentage(6/7);
-}
+.site-wrapper {
+background: #606c88; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #606c88 , #3f4c6b); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #606c88 , #3f4c6b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ 		
+ 		.booking_tabs {
+ 				.nav-tabs {
+ 					border:none;
+ 					width:50%;
+ 					margin:0 auto;
 
-body {
-  background: white;
+ 					li {
+ 							a {
+ 						border:1px solid black;
+ 						margin:10px;
+ 						border-radius:0px;
+ 						text-shadow:none;
+ 					}
+ 					a:hover {
+ 						border:1px solid black;
+ 						margin:10px;
+ 						border-radius:0px;
+ 						color:black;
+
+ 					}
+ 					}
+ 					
+ 				}
+ 		}
 }
